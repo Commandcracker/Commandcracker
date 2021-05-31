@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Someone and I create funny Programs (that's my life).
+I'm Someone and I create Programs :) \
+I am moor active on my [Gitlab](https://gitlab.com/Commandcracker) Account!
 
 ### Stats
 <div align="center">
