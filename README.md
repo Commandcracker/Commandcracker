@@ -51,15 +51,15 @@
 [<img alt="Linux" src="https://img.shields.io/badge/Linux-100000?style=flat-square&logo=Linux&logoColor=white"/>](https://www.linux.org/)
 [<img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white"/>](https://code.visualstudio.com/)
 
-<ins>Tools 🛠️</ins><br>
-
-[<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/>](https://nodejs.dev/)
-[<img alt="CMake" src="https://img.shields.io/badge/-CMake-00599C?style=flat-square&logo=cmake&logoColor=white"/>](http://cmake.org/)
-
 <i>Skills i want to acquire</i>
 
 [<img alt="SVG" src="https://img.shields.io/badge/SVG-100000?style=flat-square&logo=svg&logoColor=white"/>](https://developer.mozilla.org/docs/Web/SVG)
 [<img alt="Gimp" src="https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=white"/>](https://www.gimp.org/)
+
+<ins>Tools 🛠️</ins><br>
+
+[<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/>](https://nodejs.dev/)
+[<img alt="CMake" src="https://img.shields.io/badge/-CMake-00599C?style=flat-square&logo=cmake&logoColor=white"/>](http://cmake.org/)
 
 ### Github Stats 📊
 <div align="center">
