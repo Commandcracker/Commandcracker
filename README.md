@@ -60,6 +60,7 @@
 
 [<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/>](https://nodejs.dev/)
 [<img alt="CMake" src="https://img.shields.io/badge/-CMake-00599C?style=flat-square&logo=cmake&logoColor=white"/>](http://cmake.org/)
+[<img alt="xmake" src="https://img.shields.io/badge/-xmake-42b983?style=flat-square"/>](https://xmake.io/)
 
 ### Github Stats 📊
 <div align="center">
