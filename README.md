@@ -49,12 +49,18 @@
 [<img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-100000?style=flat-square&logo=gnu-bash&logoColor=white"/>]()
 [<img alt="Docker" src="https://img.shields.io/badge/Docker-003f8c?style=flat-square&logo=docker&logoColor=white"/>](https://www.docker.com/)
 [<img alt="Linux" src="https://img.shields.io/badge/Linux-100000?style=flat-square&logo=Linux&logoColor=white"/>](https://www.linux.org/)
-[<img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white"/>](https://code.visualstudio.com/)
 
 <i>Skills i want to acquire</i>
 
 [<img alt="SVG" src="https://img.shields.io/badge/SVG-100000?style=flat-square&logo=svg&logoColor=white"/>](https://developer.mozilla.org/docs/Web/SVG)
 [<img alt="Gimp" src="https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=white"/>](https://www.gimp.org/)
+
+<ins>Editors I use</ins><br>
+
+[<img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white"/>](https://code.visualstudio.com/)
+[<img alt="Neovim" src="https://img.shields.io/badge/-Neovim-8fff6d?style=flat-square&logo=Neovim&logoColor=white"/>](https://neovim.io/)
+[<img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-ffffff?style=flat-square&logo=PyCharm&logoColor=black"/>](https://www.jetbrains.com/pycharm/)
+[<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-ffffff?style=flat-square&logo=IntelliJ IDEA&logoColor=black"/>](https://www.jetbrains.com/idea/)
 
 <ins>Tools 🛠️</ins><br>
 
