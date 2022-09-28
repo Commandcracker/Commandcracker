@@ -58,7 +58,7 @@
 <ins>Editors I use</ins><br>
 
 [<img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white"/>](https://code.visualstudio.com/)
-[<img alt="Neovim" src="https://img.shields.io/badge/-Neovim-8fff6d?style=flat-square&logo=Neovim&logoColor=white"/>](https://neovim.io/)
+[<img alt="LunarVim" src="https://img.shields.io/badge/-LunarVim-595f8c?style=flat-square&logo=Neovim&logoColor=white"/>](https://www.lunarvim.org/)
 [<img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-ffffff?style=flat-square&logo=PyCharm&logoColor=black"/>](https://www.jetbrains.com/pycharm/)
 [<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-ffffff?style=flat-square&logo=IntelliJ IDEA&logoColor=black"/>](https://www.jetbrains.com/idea/)
 
