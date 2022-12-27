@@ -5,6 +5,8 @@
 [<img alt="Github/Commandcracker" src="https://img.shields.io/badge/GitHub/Commandcracker-%2312100E?style=flat-square&logo=Github&logoColor=white"/>](https://github.com/Commandcracker)
 [<img alt="GitLab/Commandcracker" src="https://img.shields.io/badge/GitLab/Commandcracker-330F63?style=flat-square&logo=gitlab&logoColor=white"/>](https://gitlab.com/Commandcracker)
 
+<a href="https://stackoverflow.com/users/16419850/commandcracker"><img src="https://stackoverflow.com/users/flair/16419850.png?theme=dark" width="208" height="58" alt="profile for Commandcracker at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Commandcracker at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 ### Tech Stack 👨‍💻
 
 <ins>Languages im confident in</ins><br>
