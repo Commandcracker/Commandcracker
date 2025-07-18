@@ -1,12 +1,5 @@
 # Hi there, 👋 I'm Cracker
 
-### How to reach me 📫 
-
-[<img alt="Github/Commandcracker" src="https://img.shields.io/badge/GitHub/Commandcracker-%2312100E?style=flat-square&logo=Github&logoColor=white"/>](https://github.com/Commandcracker)
-[<img alt="GitLab/Commandcracker" src="https://img.shields.io/badge/GitLab/Commandcracker-330F63?style=flat-square&logo=gitlab&logoColor=white"/>](https://gitlab.com/Commandcracker)
-
-<a href="https://stackoverflow.com/users/16419850/commandcracker"><img src="https://stackoverflow.com/users/flair/16419850.png?theme=dark" width="208" height="58" alt="profile for Commandcracker at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Commandcracker at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
 ### Tech Stack 👨‍💻
 
 <ins>Languages im confident in</ins><br>
@@ -71,11 +64,9 @@
 [<img alt="xmake" src="https://img.shields.io/badge/-xmake-42b983?style=flat-square"/>](https://xmake.io/)
 [<img alt="Maven" src="https://img.shields.io/badge/-Maven-d22127?style=flat-square&logo=Apache%20Maven&logoColor=white"/>](https://maven.apache.org/)
 
-### Github Stats 📊
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Commandcracker&count_private=true&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Commandcracker&theme=dark&layout=compact&langs_count=6"/>
-</div>
+### Profile visits
+
+![:commandcracker.github](https://count.getloli.com/@:commandcracker.github?name=commandcracker.github&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 <!--
 **Commandcracker/Commandcracker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
