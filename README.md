@@ -16,9 +16,10 @@
 
 [<img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>](https://www.c-language.org/)
 [<img alt="Haskell" src="https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white"/>](https://www.haskell.org/)
-[<img alt="WebAssembly" src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white"/>](https://webassembly.org/)
+[<img alt="Assembly" src="https://img.shields.io/badge/Assembly-000000?style=flat-square"/>](https://en.wikipedia.org/wiki/Assembly_language)
 [<img alt="Go" src="https://img.shields.io/badge/Go-00acd7?style=flat-square&logo=go&logoColor=white"/>](https://go.dev/)
 [<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>](http://www.cplusplus.com/)
+
 
 ## Other skills
 
