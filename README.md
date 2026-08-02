@@ -23,7 +23,7 @@ I want to lern:&nbsp;
 [<img alt="Assembly" src="https://img.shields.io/badge/Assembly-000000?style=flat-square"/>](https://en.wikipedia.org/wiki/Assembly_language)
 [<img alt="Go" src="https://img.shields.io/badge/Go-00acd7?style=flat-square&logo=go&logoColor=white"/>](https://go.dev/)
 [<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>](http://www.cplusplus.com/)
-[<img alt="Erlang" src="https://img.shields.io/badge/Erlang-A90533?style=flat-square&logo=go&logoColor=white"/>](https://www.erlang.org/)
+[<img alt="Erlang" src="https://img.shields.io/badge/Erlang-A90533?style=flat-square&logo=erlang&logoColor=white"/>](https://www.erlang.org/)
 
 ## Other skills
 
